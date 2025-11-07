@@ -1,0 +1,267 @@
+====================================================== 
+   BG3 MOD BACKUP DETAILED LOG - Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763 
+   Fri 11/07/2025 23:27:47.92 
+====================================================== 
+ 
+BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
+Backup folder: C:\GIT_BG3\MOD_REPOS\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763 
+ 
+[FILE COPYING REPORT] 
+====================================================== 
+SECTION 1: FILES FOUND 
+------------------------------------------------------------------------ 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763\thumbnail.png 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763 
+ 
+Files found: 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763: 0 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763\mod_publish_logo.png 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763\GUI\metadata.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763\Localization\English\english.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763: 4 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763\Content\[PAK]_Dragonborn_children_Umi_Doni\49d12c0b-00da-30be-d598-fb20e32075c6.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763\Content\[PAK]_Dragonborn_children_Umi_Doni\f0b73a4e-b105-5931-3622-d6518e8d984a.lsf 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763: 2 
+ 
+[LOG] Total files found across all folders: 8 
+ 
+SECTION 2: COPY OPERATIONS 
+------------------------------------------------------------------------ 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763\Projects\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763 to Projects\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763 
+[DEBUG] Using destination: Projects\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Friday, November 7, 2025 11:27:51 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763\
+     Dest : C:\GIT_BG3\MOD_REPOS\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763\Projects\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     707	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763\meta.lsx100%  
+	    New File  		   1.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763\thumbnail.png 69%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :    1.07 m    1.07 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Friday, November 7, 2025 11:27:51 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763\Editor\Mods\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763 to "Editor\Mods"\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763 
+[DEBUG] Using destination: Editor\Mods\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Friday, November 7, 2025 11:27:52 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763\
+     Dest : C:\GIT_BG3\MOD_REPOS\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763\Editor\Mods\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         1         0         0         0
+   Files :         0         0         0         0         0         0
+   Bytes :         0         0         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Friday, November 7, 2025 11:27:52 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 0 
+[DEBUG] Successfully copied files: 0 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763: 
+      Total files: 0 
+      Copied successfully: 0 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763\Mods\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763 to Mods\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763 
+[DEBUG] Using destination: Mods\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Friday, November 7, 2025 11:27:54 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763\
+     Dest : C:\GIT_BG3\MOD_REPOS\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763\Mods\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   11885	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763\meta.lsx100%  
+	    New File  		   1.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763\mod_publish_logo.png  0%  100%  
+	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763\GUI\metadata.lsf100%  
+	    New File  		     137	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763\Localization\English\english.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         1         0         0         0
+   Files :         4         4         0         0         0         0
+   Bytes :    1.08 m    1.08 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           284528250 Bytes/sec.
+   Speed :           16280.837 MegaBytes/min.
+   Ended : Friday, November 7, 2025 11:27:54 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 4 
+[DEBUG] Successfully copied files: 4 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763: 
+      Total files: 4 
+      Copied successfully: 4 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763\Public\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763 to Public\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763 
+[DEBUG] Using destination: Public\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Friday, November 7, 2025 11:27:55 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763\
+     Dest : C:\GIT_BG3\MOD_REPOS\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763\Public\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    9477	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763\Content\[PAK]_Dragonborn_children_Umi_Doni\49d12c0b-00da-30be-d598-fb20e32075c6.lsf100%  
+	    New File  		    7119	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763\Content\[PAK]_Dragonborn_children_Umi_Doni\f0b73a4e-b105-5931-3622-d6518e8d984a.lsf100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :    16.2 k    16.2 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             8298000 Bytes/sec.
+   Speed :             474.815 MegaBytes/min.
+   Ended : Friday, November 7, 2025 11:27:55 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+SECTION 3: FALLBACK COPY ATTEMPTS 
+------------------------------------------------------------------------ 
+ 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 0 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 4 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_Umi_Doni_efd8ecc1-35f0-fa73-186f-f8a1b71af763 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+SECTION 4: FINAL SUMMARY 
+------------------------------------------------------------------------ 
+ 
+[SUMMARY] Total mod folders found: 1 
+[SUMMARY] Total files found: 8 
+[SUMMARY] Total files successfully copied: 16 
+ 
+[SUMMARY] All files were copied successfully 
+ 
+====================================================== 

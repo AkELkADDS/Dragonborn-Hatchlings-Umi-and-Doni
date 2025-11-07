@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="400"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="efd8ecc1-35f0-fa73-186f-f8a1b71af763"/>
+            <attribute id="Name" type="LSString" value="Dragonborn_children_Umi_Doni"/>
+            <attribute id="UUID" type="LSString" value="b2bcb3f2-4c88-a88b-2951-b173f7124227"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>
